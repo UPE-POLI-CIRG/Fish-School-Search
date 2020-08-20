@@ -1,0 +1,15 @@
+
+
+
+Special Session on
+Large Scale Global Optimization
+2010 IEEE World Congress on Computational Intelligence (CEC@WCCI-2010)
+July 18-23, 2010, Barcelona, Spain
+http://nical.ustc.edu.cn/cec10ss.php
+
+The Summary of The Competition Results.
+http://nical.ustc.edu.cn/wcci2010/CompetitionSummary.pdf
+
+CEC 2010 test suite for JAVA and MATLAB including functions technical report.
+http://nical.ustc.edu.cn/wcci2010/lsgo_benchmark.zip
+

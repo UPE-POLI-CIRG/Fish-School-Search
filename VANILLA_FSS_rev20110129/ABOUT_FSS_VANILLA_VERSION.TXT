@@ -1,0 +1,42 @@
+Version 1.0 - FSS (Vanilla Version - Revision 20110128)   
+
+*** Brief notes:
+FSS is a family of algorithms suited for optimization in high-dimensional search spaces. 
+All fish perform local search and the school aggregates social information. FSS is the 
+result of a laborious-collective team work of a long on-going scientific research.
+
+This new approach in Swarm Intelligence was invented by C. Bastos Filho and F. Lima Neto 
+in 2007 and extended ever since. The two abovementioned researchers are Head of CIRG 
+(Computational Intelligent Research Group) and are based at Polytechnic School (POLI) 
+of University of Pernambuco (UPE) in Recife-PE, Brazil 
+
+This package is the first approach of FSS and excels for unimodal hyper-dimensional 
+functions. It includes two operators: Feeding and Swimming (considering individual, 
+collective-instinctive and collective-volitive movements). Stop conditions conceived 
+for FSS are as follows: limit of cycles (the stopping condition of all experiment of 
+this paper), time limit, maximum school radius, minimum school weight and maximum fish 
+number).
+
+Acknowledgments for the current implementation are credited to Murilo Rebelo Pontes  
+who is a former Postgraduate student of CIRG - POLI/UPE and has contributed quite a 
+lot with new some developments for the FSS family of algorithms. Murilo can be reached 
+via his email at murilo.pontes AT gmail.com 
+
+Acknowledments for any use of the ideas included in this first deliverable of FSS should 
+go to: BASTOS FILHO, Carmelo J. A. ; LIMA NETO, Fernando B. de; NASCIMENTO, Antônio I. S.; 
+LIMA, Marília P. "Fish School Search (FSS) - Version 1 (Vanilla Version)". Produced by 
+Computational Intelligence Research Group of University of Pernambuco, Recife-Brazil, 2008. 
+
+The corresponding authors and also responsible by the FSS research project can be reached 
+via their emails:  "Prof. Carmelo Bastos-Filho" <carmelofilho AT poli.br> and "Prof. Fernando 
+Buarque" <fbln AT poli.br>. 
+
+The FSS Team take this opportunity to wish you all lots of fun with FSS (Vanilla Version).
+
+*** Some useful links are:
+-FSS OFICIAL WEBSITE -> http://www.fbln.pro.br/FSS
+-Computational Intelligence Research Group -> http://www.cirg.ecomp.poli.br/
+-Escola Politécnica de Pernambuco -> http://www.poli.br
+-Universidade de Pernambuco -> http://www.upe.br
+-Website of Prof. Carmelo Bastos-Filho -> http://sites.google.com/site/carmelofilho/
+-Website of Prof. Fernando Buarque -> http://www.fbln.pro.br/

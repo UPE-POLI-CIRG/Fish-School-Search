@@ -1,0 +1,140 @@
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+
+F1/Shifted Elliptic Function dimensions=1000 optimum=0.0
+FE=120000 fitness=2.453483e+11
+FE=600000 fitness=6.711431e+10
+FE=3000000 fitness=1.891145e+08
+F1 CEC2010 Winner mean fitness=1.53e-27
+
+F2/Shifted Rastrigin's Function dimensions=1000 optimum=0.0
+FE=120000 fitness=1.992751e+04
+FE=600000 fitness=1.479016e+04
+FE=3000000 fitness=1.003019e+04
+F2 CEC2010 Winner mean fitness=5.57e-01
+
+F3/Shifted Ackley's Function dimensions=1000 optimum=0.0
+FE=120000 fitness=2.128122e+01
+FE=600000 fitness=2.109573e+01
+FE=3000000 fitness=2.060774e+01
+F3 CEC2010 Winner mean fitness=7.28e-13
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+
+F4/Single-group Shifted and m-rotated Elliptic Function dimensions=1000 optimum=0.0
+FE=120000 fitness=1.155490e+15 
+FE=600000 fitness=3.918172e+13 
+FE=3000000 fitness=4.114898e+12 
+F4 CEC2010 Winner mean fitness=3.53e+11
+
+F5/Single-group Shifted and m-rotated Rastrigin's Function dimensions=1000 optimum=0.0
+FE=120000 fitness=5.121813e+08 
+FE=600000 fitness=4.626505e+08 
+FE=3000000 fitness=4.617089e+08 
+F5 CEC2010 Winner mean fitness=1.68e+8
+
+F6/Single-group Shifted and m-rotated Ackley's Function dimensions=1000 optimum=0.0
+FE=120000 fitness=1.998783e+07 
+FE=600000 fitness=1.968571e+07 
+FE=3000000 fitness=1.962115e+07 
+F6 CEC2010 Winner mean fitness=8.14e+4
+
+F7/Single-group Shifted m-dimensional Schwefel's Problem 1.2 dimensions=1000 optimum=0.0
+FE=120000 fitness=1.136181e+12 
+FE=600000 fitness=5.475872e+10 
+FE=3000000 fitness=1.420317e+09 
+F7 CEC2010 Winner mean fitness=1.03e+2
+
+F8/Single-group Shifted m-dimensional Rosenbrock's Function dimensions=1000 optimum=0.0
+FE=120000 fitness=5.283014e+16 
+FE=600000 fitness=2.007165e+12 
+FE=3000000 fitness=6.185193e+07 
+F8 CEC2010 Winner mean fitness=1.41e+7
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+
+
+F9/D/2m-group Shifted and m-rotated Elliptic Function dimensions=1000 optimum=0.0
+FE=120000 fitness=3.021576e+11 
+FE=600000 fitness=1.256766e+11 
+FE=3000000 fitness=6.107060e+09 
+F9 CEC2010 Winner mean fitness=1.41e+7
+
+F10/D/2m-group Shifted and m-rotated Rastrigin's Function dimensions=1000 optimum=0.0
+FE=120000 fitness=2.039792e+04 
+FE=600000 fitness=1.543121e+04 
+FE=3000000 fitness=1.102726e+04 
+F10 CEC2010 Winner mean fitness=2.07e+3
+
+F11/D/2m-group Shifted and m-rotated Ackley's Function dimensions=1000 optimum=0.0
+FE=120000 fitness=2.330117e+02 
+FE=600000 fitness=2.301353e+02 
+FE=3000000 fitness=2.236205e+02 
+F11 CEC2010 Winner mean fitness=2.34e+1
+
+F12/D/2m-group Shifted m-dimensional Schwefel's Problem 1.2 dimensions=1000 optimum=0.0
+FE=120000 fitness=1.640632e+07 
+FE=600000 fitness=5.331031e+06 
+FE=3000000 fitness=1.945174e+06 
+F12 CEC2010 Winner mean fitness=3.62e-6
+
+F13/D/2m-group Shifted m-dimensional Rosenbrock's Function dimensions=1000 optimum=1.0444287889830452E-25
+FE=120000 fitness=1.823809e+12 
+FE=600000 fitness=4.117437e+11 
+FE=3000000 fitness=3.247626e+08 
+F13 CEC2010 Winner mean fitness=1.25e+3
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+
+F14/D/m-group group Shifted and m-rotated Elliptic Function dimensions=1000 optimum=0.0
+FE=120000 fitness=2.856902e+11 
+FE=600000 fitness=1.206515e+11 
+FE=3000000 fitness=7.652450e+09 
+F14 CEC2010 Winner mean fitness=3.11e+7
+
+F15/D/m-group group Shifted and m-rotated Rastrigin's Function dimensions=1000 optimum=0.0
+FE=120000 fitness=1.992023e+04 
+FE=600000 fitness=1.515005e+04 
+FE=3000000 fitness=1.044408e+04 
+F15 CEC2010 Winner mean fitness=2.74e+3
+
+F16/D/m-group group Shifted and m-rotated Ackley's Function dimensions=1000 optimum=0.0
+FE=120000 fitness=4.255590e+02 
+FE=600000 fitness=4.211641e+02 
+FE=3000000 fitness=4.115655e+02 
+F16 CEC2010 Winner mean fitness=7.66e+1
+
+F17/D/m-group Shifted m-dimensional Schwefel's Problem 1.2 dimensions=1000 optimum=0.0
+FE=120000 fitness=3.895040e+07 
+FE=600000 fitness=7.452422e+06 
+FE=3000000 fitness=2.115493e+06 
+F17 CEC2010 Winner mean fitness=1.24e+0
+
+F18/D/m-group Shifted m-dimensional Rosenbrock's Function dimensions=1000 optimum=4.185461770021451E-27
+FE=120000 fitness=4.756565e+12 
+FE=600000 fitness=1.184725e+12 
+FE=3000000 fitness=3.186213e+10 
+F18 CEC2010 Winner mean fitness=1.30e+3
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+
+F19/Shifted Schwefel's Problem 1.2 dimensions=1000 optimum=0.0
+FE=120000 fitness=5.372237e+07
+FE=600000 fitness=2.018846e+07
+FE=3000000 fitness=5.990250e+06
+F19 CEC2010 Winner mean fitness=2.85e+5
+
+F20/Shifted Rosenbrock's Function dimensions=1000 optimum=1.3814150067729392E-26
+FE=120000 fitness=4.263830e+12
+FE=600000 fitness=1.221610e+12
+FE=3000000 fitness=3.459228e+10
+F20 CEC2010 Winner mean fitness=1.07e+3
+
+
+
+
